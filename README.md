@@ -58,7 +58,7 @@ Relevant links:
 * D4.2 Report on Discourse-Aware Machine Translation for Audiovisual Data, Maija Hirvonen; Maarit Koponen; Umut Sulubacak; Jörg Tiedemann, MemMAD deliverable, https://doi.org/10.5281/zenodo.3690764
 
 
-* Analysing concatenation approaches to document-level NMT in two different domains, Yves Scherrer, Jörg Tiedemann, Sharid Loáiciga, DiscoMT 2019
+* [Analysing concatenation approaches to document-level NMT in two different domains](https://www.aclweb.org/anthology/D19-6506), Yves Scherrer, Jörg Tiedemann, Sharid Loáiciga, DiscoMT 2019
 
 ```
 @inproceedings{scherrer-etal-2019-analysing,
@@ -80,7 +80,7 @@ Relevant links:
 
 
 
-* The University of Helsinki Submissions to the WMT19 News Translation Task, Aarne Talman, Umut Sulubacak, Raúl Vázquez, Yves Scherrer, Sami Virpioja, Alessandro Raganato, Arvi Hurskainen, Jörg Tiedemann, WMT 2019
+* [The University of Helsinki Submissions to the WMT19 News Translation Task](https://www.aclweb.org/anthology/W19-5347), Aarne Talman, Umut Sulubacak, Raúl Vázquez, Yves Scherrer, Sami Virpioja, Alessandro Raganato, Arvi Hurskainen, Jörg Tiedemann, WMT 2019
 
 ```
 @inproceedings{talman-etal-2019-university,
@@ -106,7 +106,7 @@ Relevant links:
 ```
 
 
-* MT for subtitling: User evaluation of post-editing productivity, Maarit Koponen, Umut Sulubacak, Kaisa Vitikainen, Jörg Tiedemann, EAMT 2020
+* [MT for subtitling: User evaluation of post-editing productivity](https://www.aclweb.org/anthology/2020.eamt-1.13), Maarit Koponen, Umut Sulubacak, Kaisa Vitikainen, Jörg Tiedemann, EAMT 2020
 
 ```
 @inproceedings{koponen-etal-2020-mt,

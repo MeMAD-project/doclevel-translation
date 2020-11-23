@@ -2,6 +2,9 @@
 # MeMAD Document-Level Machine Translation
 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4287562.svg)](https://doi.org/10.5281/zenodo.4287562)
+
+
 This package provides document-level machine translation models trained within the [MeMAD project](https://memad.eu/). 
 
 * trained using [Marian-NMT](https://marian-nmt.github.io/)
@@ -28,6 +31,9 @@ scripts/post-process.sh < data/newstest2019-fien-sys.en.doc100 > data/newstest20
 * Finnish - English (fi-en)
 * Finnish - French  (fi-fr)
 * French  - Finnish (fr-fi)
+
+Download from https://doi.org/10.5281/zenodo.4287562
+
 
 
 

@@ -1,0 +1,3 @@
+[submodule "subalign"]
+	path = subalign
+	url = https://github.com/Helsinki-NLP/subalign.git

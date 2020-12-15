@@ -29,6 +29,7 @@ scripts/post-process.sh < data/newstest2019-fien-sys.en.doc100 > data/newstest20
 * Finnish - Swedish (fi-sv)
 * Swedish - Finnish (sv-fi)
 * Finnish - English (fi-en)
+* English - Finnish (en-fi)
 * Finnish - French  (fi-fr)
 * French  - Finnish (fr-fi)
 

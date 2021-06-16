@@ -7,7 +7,7 @@
 
 This package provides document-level machine translation models trained within the [MeMAD project](https://memad.eu/). 
 
-* trained using [Marian-NMT](https://marian-nmt.github.io/)
+* trained using [Marian-NMT](https://marian-nmt.github.io/) v1.8.2
 * transformer-base model (6 layers encoder/decoder)
 * [sentence piece](https://github.com/google/sentencepiece) subword tokenisation
 * extended content of max 100 tokens with sentence/paragraph boundaries
@@ -29,6 +29,7 @@ scripts/post-process.sh < data/newstest2019-fien-sys.en.doc100 > data/newstest20
 * Finnish - Swedish (fi-sv)
 * Swedish - Finnish (sv-fi)
 * Finnish - English (fi-en)
+* English - Finnish (en-fi)
 * Finnish - French  (fi-fr)
 * French  - Finnish (fr-fi)
 
